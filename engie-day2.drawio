@@ -1,4 +1,4 @@
-<mxfile modified="2020-08-12T10:54:15.016Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="9dmZBcr4LaomCi8cPdl1" version="13.6.2" type="github" pages="3">
+<mxfile modified="2020-08-12T15:27:32.307Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="Aph9-fPte7qzOU7UR3Ky" version="13.6.2" type="github" pages="4">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1422" dy="832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -473,6 +473,35 @@
             <mxPoint x="780" y="80" as="sourcePoint" />
             <mxPoint x="830" y="30" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="g2cC5X3Jti_Vd-3RRJHX" name="Page-4">
+    <mxGraphModel dx="1422" dy="832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="rXfA237Ul1tlRq_mg-9d-0" />
+        <mxCell id="rXfA237Ul1tlRq_mg-9d-1" parent="rXfA237Ul1tlRq_mg-9d-0" />
+        <mxCell id="rXfA237Ul1tlRq_mg-9d-2" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#F78E04;gradientDirection=north;fillColor=#D05C17;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.ec2;" vertex="1" parent="rXfA237Ul1tlRq_mg-9d-1">
+          <mxGeometry x="230" y="180" width="250" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="rXfA237Ul1tlRq_mg-9d-3" value="BUCKET33" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#60A337;gradientDirection=north;fillColor=#277116;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.s3;" vertex="1" parent="rXfA237Ul1tlRq_mg-9d-1">
+          <mxGeometry x="860" y="190" width="178" height="178" as="geometry" />
+        </mxCell>
+        <mxCell id="rXfA237Ul1tlRq_mg-9d-4" value="My App" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;align=center;" vertex="1" parent="rXfA237Ul1tlRq_mg-9d-1">
+          <mxGeometry x="160" y="100" width="200" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="rXfA237Ul1tlRq_mg-9d-5" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=18;" edge="1" parent="rXfA237Ul1tlRq_mg-9d-1" source="rXfA237Ul1tlRq_mg-9d-4" target="rXfA237Ul1tlRq_mg-9d-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="160" as="sourcePoint" />
+            <mxPoint x="610" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rXfA237Ul1tlRq_mg-9d-8" value="IAM Policy&lt;br&gt;Effect: Allow&lt;br&gt;Action: s3: putItem&lt;br&gt;Resource: s3://bucket33" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;align=center;" vertex="1" parent="rXfA237Ul1tlRq_mg-9d-1">
+          <mxGeometry x="658" y="18" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="rXfA237Ul1tlRq_mg-9d-9" value="IAM ROLE" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#C7131F;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.role;" vertex="1" parent="rXfA237Ul1tlRq_mg-9d-1">
+          <mxGeometry x="440" y="148" width="78" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
