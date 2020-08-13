@@ -1,6 +1,6 @@
-<mxfile modified="2020-08-13T19:16:15.549Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="N_lf44vYBxzmrVKAKUJH" version="13.6.2" type="github" pages="5">
-  <diagram id="1HE-wqyfYZ4CwCbwuB85" name="Page-2">
-    <mxGraphModel dx="981" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+<mxfile modified="2020-08-13T19:18:25.139Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="TFjQatXb6e-HykUTbBQw" version="13.6.2" type="github" pages="5">
+  <diagram id="1HE-wqyfYZ4CwCbwuB85" name="Sticky Session Alternativev">
+    <mxGraphModel dx="716" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="BB6XXCtX2lMVDvg097Rk-0" />
         <mxCell id="BB6XXCtX2lMVDvg097Rk-1" parent="BB6XXCtX2lMVDvg097Rk-0" />
@@ -118,8 +118,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="-G4cgVmoHLIGjTLNJkvO" name="Page-3">
-    <mxGraphModel dx="1422" dy="832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+  <diagram id="-G4cgVmoHLIGjTLNJkvO" name="ELB reality">
+    <mxGraphModel dx="1038" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="H7Bd8Zw8SNSjKZVl-8-M-0" />
         <mxCell id="H7Bd8Zw8SNSjKZVl-8-M-1" parent="H7Bd8Zw8SNSjKZVl-8-M-0" />
@@ -165,8 +165,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="TCP7qQYQatgMRiZpwjst" name="Page-4">
-    <mxGraphModel dx="474" dy="277" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+  <diagram id="TCP7qQYQatgMRiZpwjst" name="SQS">
+    <mxGraphModel dx="346" dy="206" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="DQxNmZ7uP6EbReq6uRka-0" />
         <mxCell id="DQxNmZ7uP6EbReq6uRka-1" parent="DQxNmZ7uP6EbReq6uRka-0" />
@@ -194,8 +194,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="sDU2iBe_JCl9mvtn4XGQ" name="Page-5">
-    <mxGraphModel dx="1422" dy="832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+  <diagram id="sDU2iBe_JCl9mvtn4XGQ" name="ECS">
+    <mxGraphModel dx="1038" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="SAd3WKQRyzRP20VKeo1l-0" />
         <mxCell id="SAd3WKQRyzRP20VKeo1l-1" parent="SAd3WKQRyzRP20VKeo1l-0" />
@@ -253,7 +253,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="K6Yi8tr70KWp5AOILCX4" name="Page-6">
+  <diagram id="K6Yi8tr70KWp5AOILCX4" name="API GW">
     <mxGraphModel dx="1038" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="4jXBQFkJEzTzvu-HhAH1-0" />
