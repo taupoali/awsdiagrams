@@ -1,4 +1,4 @@
-<mxfile modified="2020-08-18T14:21:31.614Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="OrMUSOfSpFrVK_C1bOQk" version="13.6.2" type="github" pages="7">
+<mxfile modified="2020-08-18T15:36:30.687Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="NiWxiLSno_t-vbNMX3nq" version="13.6.2" type="github" pages="8">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1422" dy="832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -571,6 +571,37 @@
             <mxPoint x="560" y="430" as="sourcePoint" />
             <mxPoint x="610" y="380" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="DSGhVt3KyEA8_D0bJHKc" name="Page-8">
+    <mxGraphModel dx="1422" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="W-0cZrzx2K7dBB1yR4rk-0" />
+        <mxCell id="W-0cZrzx2K7dBB1yR4rk-1" parent="W-0cZrzx2K7dBB1yR4rk-0" />
+        <mxCell id="W-0cZrzx2K7dBB1yR4rk-2" value="Bastion" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=27;" vertex="1" parent="W-0cZrzx2K7dBB1yR4rk-1">
+          <mxGeometry x="170" y="100" width="260" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="W-0cZrzx2K7dBB1yR4rk-3" value="Web Server" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=27;" vertex="1" parent="W-0cZrzx2K7dBB1yR4rk-1">
+          <mxGeometry x="720" y="100" width="260" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="W-0cZrzx2K7dBB1yR4rk-4" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;align=left;fontSize=27;" vertex="1" parent="W-0cZrzx2K7dBB1yR4rk-1">
+          <mxGeometry x="220" y="520" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W-0cZrzx2K7dBB1yR4rk-5" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=27;" edge="1" parent="W-0cZrzx2K7dBB1yR4rk-1" target="W-0cZrzx2K7dBB1yR4rk-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="530" as="sourcePoint" />
+            <mxPoint x="610" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W-0cZrzx2K7dBB1yR4rk-6" value="SSH" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=27;" vertex="1" connectable="0" parent="W-0cZrzx2K7dBB1yR4rk-5">
+          <mxGeometry x="-0.3579" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W-0cZrzx2K7dBB1yR4rk-7" value="1) query to meta-data&lt;br style=&quot;font-size: 15px;&quot;&gt;2) query to parameter store&lt;br style=&quot;font-size: 15px;&quot;&gt;3) setting linux environment variables&lt;br style=&quot;font-size: 15px;&quot;&gt;4) step 30 create instance" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=15;" vertex="1" parent="W-0cZrzx2K7dBB1yR4rk-1">
+          <mxGeometry x="30" y="250" width="210" height="280" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
