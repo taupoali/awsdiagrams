@@ -1,4 +1,4 @@
-<mxfile modified="2020-09-28T11:52:20.703Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="eeHeuc039Uxjy1eI2Lhg" version="13.7.5" type="github" pages="6">
+<mxfile modified="2020-09-28T13:30:00.248Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="55f1LKXOK_pAT_jfXUYD" version="13.7.5" type="github" pages="7">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1422" dy="832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -374,6 +374,41 @@
             <mxPoint x="650" y="550" as="sourcePoint" />
             <mxPoint x="700" y="500" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Copy of Copy of Page-2" id="PUaRwyLdnuVOWsAEEMCu">
+    <mxGraphModel dx="1422" dy="832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="oXlI0FXIE4V6m4gh9nj1-0" />
+        <mxCell id="oXlI0FXIE4V6m4gh9nj1-1" parent="oXlI0FXIE4V6m4gh9nj1-0" />
+        <mxCell id="oXlI0FXIE4V6m4gh9nj1-3" value="" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=14;" vertex="1" parent="oXlI0FXIE4V6m4gh9nj1-1">
+          <mxGeometry x="80" y="190" width="1030" height="620" as="geometry" />
+        </mxCell>
+        <mxCell id="oXlI0FXIE4V6m4gh9nj1-4" value="Architecting on AWS" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=30;fontStyle=1" vertex="1" parent="oXlI0FXIE4V6m4gh9nj1-1">
+          <mxGeometry x="56.5" y="64.5" width="310" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oXlI0FXIE4V6m4gh9nj1-5" value="Siemens 28th September 2020" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;" vertex="1" parent="oXlI0FXIE4V6m4gh9nj1-1">
+          <mxGeometry x="56.5" y="114.5" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="oXlI0FXIE4V6m4gh9nj1-6" value="" style="line;strokeWidth=2;html=1;fontSize=14;" vertex="1" parent="oXlI0FXIE4V6m4gh9nj1-1">
+          <mxGeometry x="52.5" y="139.5" width="1060" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="oXlI0FXIE4V6m4gh9nj1-7" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.virtual_machine;" vertex="1" parent="oXlI0FXIE4V6m4gh9nj1-1">
+          <mxGeometry x="160" y="254" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="oXlI0FXIE4V6m4gh9nj1-9" value="Windows Server 2019&lt;br&gt;for Siemens" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;fontStyle=1" vertex="1" parent="oXlI0FXIE4V6m4gh9nj1-1">
+          <mxGeometry x="366.5" y="324" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="oXlI0FXIE4V6m4gh9nj1-11" value="XEN or KVM&amp;nbsp;&lt;br&gt;HYPERVISOR HOST" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;fontStyle=1" vertex="1" parent="oXlI0FXIE4V6m4gh9nj1-1">
+          <mxGeometry x="175.75" y="740" width="178.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="oXlI0FXIE4V6m4gh9nj1-18" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.virtual_machine;" vertex="1" parent="oXlI0FXIE4V6m4gh9nj1-1">
+          <mxGeometry x="580" y="254" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="oXlI0FXIE4V6m4gh9nj1-20" value="Windows Server 2019&lt;br&gt;for Siemens" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;fontStyle=1" vertex="1" parent="oXlI0FXIE4V6m4gh9nj1-1">
+          <mxGeometry x="820" y="210" width="40" height="256" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
