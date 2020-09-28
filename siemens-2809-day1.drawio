@@ -1,4 +1,4 @@
-<mxfile modified="2020-09-28T14:41:34.541Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="pR4VWYJEI6-xovm_FnGJ" version="13.7.5" type="github" pages="8">
+<mxfile modified="2020-09-28T14:55:37.216Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="rGiEOnMK-F_nGfiYpMFJ" version="13.7.5" type="github" pages="8">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1422" dy="832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -498,7 +498,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="rJICjt1PLz-014PjLbdg" name="Page-8">
-    <mxGraphModel dx="1185" dy="693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="981" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="FpBhPsT1KfIi4kYJoUhy-0" />
         <mxCell id="FpBhPsT1KfIi4kYJoUhy-1" parent="FpBhPsT1KfIi4kYJoUhy-0" />
@@ -583,11 +583,26 @@
         <mxCell id="FpBhPsT1KfIi4kYJoUhy-25" value="&lt;b&gt;Routing Table rt1&lt;/b&gt;&lt;br&gt;10.0.0.0/16 = local&amp;nbsp;&lt;br&gt;0.0.0.0/0 = IGW" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=12;fontColor=#000000;" vertex="1" parent="FpBhPsT1KfIi4kYJoUhy-1">
           <mxGeometry x="570" y="435" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FpBhPsT1KfIi4kYJoUhy-26" value="&lt;b&gt;Routing Table rt2&lt;/b&gt;&lt;br&gt;10.0.0.0/16 = local&amp;nbsp;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=12;fontColor=#000000;" vertex="1" parent="FpBhPsT1KfIi4kYJoUhy-1">
-          <mxGeometry x="100" y="720" width="120" height="60" as="geometry" />
+        <mxCell id="FpBhPsT1KfIi4kYJoUhy-26" value="&lt;b&gt;Default Routing Table rt2&lt;/b&gt;&lt;br&gt;10.0.0.0/16 = local&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=12;fontColor=#000000;" vertex="1" parent="FpBhPsT1KfIi4kYJoUhy-1">
+          <mxGeometry x="100" y="710" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FpBhPsT1KfIi4kYJoUhy-27" value="&lt;b&gt;Routing Table rt2&lt;/b&gt;&lt;br&gt;10.0.0.0/16 = local&amp;nbsp;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=12;fontColor=#000000;" vertex="1" parent="FpBhPsT1KfIi4kYJoUhy-1">
-          <mxGeometry x="465" y="710" width="120" height="60" as="geometry" />
+        <mxCell id="FpBhPsT1KfIi4kYJoUhy-29" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;fontSize=12;fontColor=#000000;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="FpBhPsT1KfIi4kYJoUhy-1" source="FpBhPsT1KfIi4kYJoUhy-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="240" as="sourcePoint" />
+            <mxPoint x="235.294117647059" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FpBhPsT1KfIi4kYJoUhy-31" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;fontSize=12;fontColor=#000000;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="FpBhPsT1KfIi4kYJoUhy-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="563.1288235294119" y="350" as="sourcePoint" />
+            <mxPoint x="558.864117647059" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FpBhPsT1KfIi4kYJoUhy-33" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontColor=#000000;" vertex="1" parent="FpBhPsT1KfIi4kYJoUhy-1">
+          <mxGeometry x="250" y="270" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FpBhPsT1KfIi4kYJoUhy-34" value="&lt;span style=&quot;color: rgb(22 , 25 , 31) ; font-family: &amp;#34;amazon ember&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;roboto&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 14px ; background-color: rgb(241 , 250 , 255)&quot;&gt;eipalloc-019bf2638e7f44c59&lt;br&gt;&lt;/span&gt;&lt;a href=&quot;https://eu-west-1.console.aws.amazon.com/vpc/home?region=eu-west-1#ElasticIpDetails:AllocationId=eipalloc-019bf2638e7f44c59&quot; target=&quot;_top&quot; style=&quot;background-color: rgb(241 , 250 , 255) ; font-family: &amp;#34;amazon ember&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;roboto&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 14px&quot;&gt;54.195.201.240&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=20;fontColor=#000000;" vertex="1" parent="FpBhPsT1KfIi4kYJoUhy-1">
+          <mxGeometry x="480" width="254" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
