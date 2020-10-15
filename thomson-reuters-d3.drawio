@@ -1,4 +1,4 @@
-<mxfile modified="2020-10-15T13:42:27.381Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="aeKqKK02JUoJdRC99Pvk" version="13.7.9" type="github" pages="8">
+<mxfile modified="2020-10-15T16:16:39.851Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="BFS89omSqYM-d-8T4s72" version="13.7.9" type="github" pages="9">
   <diagram id="vBNmWXdyfwC3EVy-dLni" name="Page-2">
     <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -177,7 +177,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="wHVblr-WI4OUwJGDr9i-" name="Page-4">
-    <mxGraphModel dx="677" dy="378" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="621" dy="289" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="g0469ffHvKjICx47Iwyz-0" />
         <mxCell id="g0469ffHvKjICx47Iwyz-1" parent="g0469ffHvKjICx47Iwyz-0" />
@@ -317,7 +317,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="7si8f33H30JH16RwNO0A" name="Page-8">
-    <mxGraphModel dx="261" dy="341" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1305" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="6Wv1eT1CZOZN0UWwUtbU-0" />
         <mxCell id="6Wv1eT1CZOZN0UWwUtbU-1" parent="6Wv1eT1CZOZN0UWwUtbU-0" />
@@ -362,6 +362,38 @@
         </mxCell>
         <mxCell id="6Wv1eT1CZOZN0UWwUtbU-14" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#F78E04;gradientDirection=north;fillColor=#D05C17;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.lambda;" vertex="1" parent="6Wv1eT1CZOZN0UWwUtbU-1">
           <mxGeometry x="1041" y="232" width="78" height="78" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="d7a6FDalDYILVfzSsntt" name="Page-9">
+    <mxGraphModel dx="851" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="GEQ4qwQqcrw0rGsUeHK_-0" />
+        <mxCell id="GEQ4qwQqcrw0rGsUeHK_-1" parent="GEQ4qwQqcrw0rGsUeHK_-0" />
+        <mxCell id="GEQ4qwQqcrw0rGsUeHK_-2" value="Parameter Store&lt;br&gt;key-value store" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=21;" vertex="1" parent="GEQ4qwQqcrw0rGsUeHK_-1">
+          <mxGeometry x="150" y="100" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GEQ4qwQqcrw0rGsUeHK_-3" value="Secret Store&lt;br&gt;key-value store" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=21;" vertex="1" parent="GEQ4qwQqcrw0rGsUeHK_-1">
+          <mxGeometry x="150" y="180" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GEQ4qwQqcrw0rGsUeHK_-4" value="Code Artifact" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=21;" vertex="1" parent="GEQ4qwQqcrw0rGsUeHK_-1">
+          <mxGeometry x="150" y="260" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GEQ4qwQqcrw0rGsUeHK_-5" value="Code Deploy" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=21;" vertex="1" parent="GEQ4qwQqcrw0rGsUeHK_-1">
+          <mxGeometry x="150" y="340" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GEQ4qwQqcrw0rGsUeHK_-6" value="S3" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=21;" vertex="1" parent="GEQ4qwQqcrw0rGsUeHK_-1">
+          <mxGeometry x="110" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GEQ4qwQqcrw0rGsUeHK_-7" value="Systems Manager&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=21;" vertex="1" parent="GEQ4qwQqcrw0rGsUeHK_-1">
+          <mxGeometry x="150" y="520" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GEQ4qwQqcrw0rGsUeHK_-8" value="Automation Documents" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=21;" vertex="1" parent="GEQ4qwQqcrw0rGsUeHK_-1">
+          <mxGeometry x="110" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GEQ4qwQqcrw0rGsUeHK_-9" value=".ps1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="GEQ4qwQqcrw0rGsUeHK_-1">
+          <mxGeometry x="80" y="640" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
