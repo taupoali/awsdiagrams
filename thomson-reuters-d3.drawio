@@ -1,4 +1,4 @@
-<mxfile modified="2020-10-15T11:01:47.456Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="AkbOvU06Lp8Tt4Ro0YUS" version="13.7.9" type="github" pages="6">
+<mxfile modified="2020-10-15T11:12:06.617Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="48gBw8mWpixb1qu96d01" version="13.7.9" type="github" pages="7">
   <diagram id="vBNmWXdyfwC3EVy-dLni" name="Page-2">
     <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -17,7 +17,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of Page-2" id="HXY73dLuI6mGSODRZS5d">
-    <mxGraphModel dx="892" dy="394" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="677" dy="378" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="06PIwtBfIA9uAto3cpbc-0" />
         <mxCell id="06PIwtBfIA9uAto3cpbc-1" parent="06PIwtBfIA9uAto3cpbc-0" />
@@ -55,7 +55,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of Copy of Page-2" id="F0VQvxsM79ttGJ-tETby">
-    <mxGraphModel dx="892" dy="394" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="677" dy="378" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="9WfVf9NrPDkHgHv_12CJ-0" />
         <mxCell id="9WfVf9NrPDkHgHv_12CJ-1" parent="9WfVf9NrPDkHgHv_12CJ-0" />
@@ -260,13 +260,13 @@
       <root>
         <mxCell id="y0UdL8fqiHEVQP2hi0sN-0" />
         <mxCell id="y0UdL8fqiHEVQP2hi0sN-1" parent="y0UdL8fqiHEVQP2hi0sN-0" />
-        <mxCell id="y0UdL8fqiHEVQP2hi0sN-4" value="pod1" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=21;" vertex="1" parent="y0UdL8fqiHEVQP2hi0sN-1">
+        <mxCell id="y0UdL8fqiHEVQP2hi0sN-4" value="pod1&lt;br&gt;10.1.3.45" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=21;" vertex="1" parent="y0UdL8fqiHEVQP2hi0sN-1">
           <mxGeometry x="170" y="50" width="180" height="140" as="geometry" />
         </mxCell>
         <mxCell id="y0UdL8fqiHEVQP2hi0sN-2" value="CONTAINER HOST&amp;nbsp;&lt;br style=&quot;font-size: 21px;&quot;&gt;FOR EXAMPLE DOCKER" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=21;" vertex="1" parent="y0UdL8fqiHEVQP2hi0sN-1">
           <mxGeometry x="60" y="190" width="290" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="y0UdL8fqiHEVQP2hi0sN-3" value="Container" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=21;" vertex="1" parent="y0UdL8fqiHEVQP2hi0sN-1">
+        <mxCell id="y0UdL8fqiHEVQP2hi0sN-3" value="Container" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=21;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="y0UdL8fqiHEVQP2hi0sN-1">
           <mxGeometry x="280" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="y0UdL8fqiHEVQP2hi0sN-5" value="CONTAINER HOST&amp;nbsp;&lt;br style=&quot;font-size: 21px;&quot;&gt;FOR EXAMPLE DOCKER" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=21;" vertex="1" parent="y0UdL8fqiHEVQP2hi0sN-1">
@@ -275,14 +275,43 @@
         <mxCell id="y0UdL8fqiHEVQP2hi0sN-6" value="CONTAINER HOST&amp;nbsp;&lt;br style=&quot;font-size: 21px;&quot;&gt;FOR EXAMPLE DOCKER" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=21;" vertex="1" parent="y0UdL8fqiHEVQP2hi0sN-1">
           <mxGeometry x="710" y="190" width="290" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="y0UdL8fqiHEVQP2hi0sN-7" value="pod2" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=21;" vertex="1" parent="y0UdL8fqiHEVQP2hi0sN-1">
-          <mxGeometry x="870" y="130" width="180" height="140" as="geometry" />
+        <mxCell id="y0UdL8fqiHEVQP2hi0sN-7" value="pod2&lt;br&gt;10.1.3.44" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=21;" vertex="1" parent="y0UdL8fqiHEVQP2hi0sN-1">
+          <mxGeometry x="860" y="50" width="180" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="y0UdL8fqiHEVQP2hi0sN-8" value="Container" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=21;" vertex="1" parent="y0UdL8fqiHEVQP2hi0sN-1">
-          <mxGeometry x="980" y="140" width="120" height="60" as="geometry" />
+        <mxCell id="y0UdL8fqiHEVQP2hi0sN-8" value="Container" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=21;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="y0UdL8fqiHEVQP2hi0sN-1">
+          <mxGeometry x="970" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="y0UdL8fqiHEVQP2hi0sN-9" value="Container&lt;br&gt;sidecar" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=21;" vertex="1" parent="y0UdL8fqiHEVQP2hi0sN-1">
-          <mxGeometry x="980" y="200" width="120" height="60" as="geometry" />
+        <mxCell id="y0UdL8fqiHEVQP2hi0sN-9" value="Container&lt;br&gt;sidecar" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=21;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="y0UdL8fqiHEVQP2hi0sN-1">
+          <mxGeometry x="970" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="vJwT0FHibcg_L45WkBFR" name="Page-7">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="fzlkhk9ad5gTTQHVKghb-0" />
+        <mxCell id="fzlkhk9ad5gTTQHVKghb-1" parent="fzlkhk9ad5gTTQHVKghb-0" />
+        <mxCell id="fzlkhk9ad5gTTQHVKghb-2" value="ec2 instance (vm on kvm)&lt;br&gt;running container runtime" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=21;" vertex="1" parent="fzlkhk9ad5gTTQHVKghb-1">
+          <mxGeometry x="640" y="100" width="460" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="fzlkhk9ad5gTTQHVKghb-3" value="pod2&lt;br&gt;10.1.3.44" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=21;" vertex="1" parent="fzlkhk9ad5gTTQHVKghb-1">
+          <mxGeometry x="890" y="200" width="180" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="fzlkhk9ad5gTTQHVKghb-4" value="Container" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=21;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="fzlkhk9ad5gTTQHVKghb-1">
+          <mxGeometry x="640" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fzlkhk9ad5gTTQHVKghb-5" value="Container&lt;br&gt;sidecar" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=21;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="fzlkhk9ad5gTTQHVKghb-1">
+          <mxGeometry x="770" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fzlkhk9ad5gTTQHVKghb-6" value="AWS HYPERVISOR - MODIFIED VERSION OF KVM&lt;br&gt;&quot;NITRO&quot;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=21;" vertex="1" parent="fzlkhk9ad5gTTQHVKghb-1">
+          <mxGeometry x="370" y="460" width="630" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="fzlkhk9ad5gTTQHVKghb-7" value="AMAZON CUSTOM MADE SERVER HARDWARE" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=21;" vertex="1" parent="fzlkhk9ad5gTTQHVKghb-1">
+          <mxGeometry x="370" y="580" width="630" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="CNpYfJlcFm7aMrGMcnu9-0" value="Docker" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=21;" vertex="1" parent="fzlkhk9ad5gTTQHVKghb-1">
+          <mxGeometry x="680" y="330" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
