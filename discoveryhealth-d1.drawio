@@ -1,4 +1,4 @@
-<mxfile modified="2020-11-15T18:10:56.395Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="ZVc-YIEU0-M8SvumQUrC" version="13.9.8" type="github" pages="5">
+<mxfile modified="2020-11-16T10:34:58.991Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="JoyWApGcsirtzi2GQusb" version="13.9.8" type="github" pages="5">
   <diagram id="NrtdrvfLPn9VegWJ8b1I" name="Page-2">
     <mxGraphModel dx="1449" dy="675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -68,10 +68,16 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of Copy of Copy of Copy of Page-2" id="-KUXs9YTCSBOoTRGsBYj">
-    <mxGraphModel dx="1449" dy="675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="950" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="GZ2XJZxd7CLWVEvUJ7k2-0" />
         <mxCell id="GZ2XJZxd7CLWVEvUJ7k2-1" parent="GZ2XJZxd7CLWVEvUJ7k2-0" />
+        <mxCell id="GZ2XJZxd7CLWVEvUJ7k2-13" value="" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="GZ2XJZxd7CLWVEvUJ7k2-1">
+          <mxGeometry x="750" y="160" width="200" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="GZ2XJZxd7CLWVEvUJ7k2-8" value="" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="GZ2XJZxd7CLWVEvUJ7k2-1">
+          <mxGeometry x="260" y="160" width="390" height="270" as="geometry" />
+        </mxCell>
         <mxCell id="GZ2XJZxd7CLWVEvUJ7k2-2" value="Architecting on AWS" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=30;fontStyle=1" vertex="1" parent="GZ2XJZxd7CLWVEvUJ7k2-1">
           <mxGeometry x="56.5" y="64.5" width="310" height="40" as="geometry" />
         </mxCell>
@@ -80,6 +86,39 @@
         </mxCell>
         <mxCell id="GZ2XJZxd7CLWVEvUJ7k2-4" value="" style="line;strokeWidth=2;html=1;fontSize=14;" vertex="1" parent="GZ2XJZxd7CLWVEvUJ7k2-1">
           <mxGeometry x="52.5" y="139.5" width="1060" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="GZ2XJZxd7CLWVEvUJ7k2-5" value="ec2 instance (vm)&lt;br&gt;family: compute / memory / accelerated (gpu)&lt;br&gt;c5.large&lt;br&gt;EBS optimised?" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#F78E04;gradientDirection=north;fillColor=#D05C17;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.compute;" vertex="1" parent="GZ2XJZxd7CLWVEvUJ7k2-1">
+          <mxGeometry x="350" y="180" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="GZ2XJZxd7CLWVEvUJ7k2-6" value="amazon machine image (AMI)&lt;br&gt;&lt;br&gt;hard disk size = 10GB" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="GZ2XJZxd7CLWVEvUJ7k2-1">
+          <mxGeometry x="56.5" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GZ2XJZxd7CLWVEvUJ7k2-7" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="GZ2XJZxd7CLWVEvUJ7k2-1" source="GZ2XJZxd7CLWVEvUJ7k2-6" target="GZ2XJZxd7CLWVEvUJ7k2-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="300" as="sourcePoint" />
+            <mxPoint x="510" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GZ2XJZxd7CLWVEvUJ7k2-9" value="Modified XEN&lt;br&gt;or Modified KVM (Nitro)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="GZ2XJZxd7CLWVEvUJ7k2-1">
+          <mxGeometry x="310" y="360" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GZ2XJZxd7CLWVEvUJ7k2-10" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#F78E04;gradientDirection=north;fillColor=#D05C17;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.compute;" vertex="1" parent="GZ2XJZxd7CLWVEvUJ7k2-1">
+          <mxGeometry x="450" y="180" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="GZ2XJZxd7CLWVEvUJ7k2-11" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#F78E04;gradientDirection=north;fillColor=#D05C17;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.compute;" vertex="1" parent="GZ2XJZxd7CLWVEvUJ7k2-1">
+          <mxGeometry x="545.5" y="180" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="GZ2XJZxd7CLWVEvUJ7k2-12" value="Elastic Block Storage (EBS)&lt;br&gt;Volume1&lt;br&gt;10GB" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#60A337;gradientDirection=north;fillColor=#277116;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.elastic_block_store;" vertex="1" parent="GZ2XJZxd7CLWVEvUJ7k2-1">
+          <mxGeometry x="820" y="190" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="GZ2XJZxd7CLWVEvUJ7k2-14" value="EBS SAN" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="GZ2XJZxd7CLWVEvUJ7k2-1">
+          <mxGeometry x="820" y="430" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GZ2XJZxd7CLWVEvUJ7k2-15" value="EBS OPTIMISED PATH" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rotation=90;" vertex="1" parent="GZ2XJZxd7CLWVEvUJ7k2-1">
+          <mxGeometry x="670" y="280" width="80" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="GZ2XJZxd7CLWVEvUJ7k2-16" value="Generic LAN connection" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rotation=90;" vertex="1" parent="GZ2XJZxd7CLWVEvUJ7k2-1">
+          <mxGeometry x="690" y="200" width="40" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
