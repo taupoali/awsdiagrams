@@ -1,4 +1,4 @@
-<mxfile modified="2020-12-15T07:44:17.801Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="dFTOl47_ZfDxz9IEq0kr" version="14.0.1" type="github" pages="2">
+<mxfile modified="2020-12-15T07:44:30.235Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="K5QpbC1lu732TzrJdlye" version="14.0.1" type="github" pages="5">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -314,6 +314,57 @@
           <mxGeometry x="56.5" y="114.5" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4j40Rz9XD3yvmmO-pd4v-4" value="" style="line;strokeWidth=2;html=1;fontSize=14;" vertex="1" parent="4j40Rz9XD3yvmmO-pd4v-1">
+          <mxGeometry x="52.5" y="139.5" width="1060" height="10" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Copy of Page-2" id="HkzA9acNqu3bZF-dD1bU">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="MHB4uFjQyGoL311HIUMG-0" />
+        <mxCell id="MHB4uFjQyGoL311HIUMG-1" parent="MHB4uFjQyGoL311HIUMG-0" />
+        <mxCell id="MHB4uFjQyGoL311HIUMG-2" value="Architecting on AWS" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=30;fontStyle=1" vertex="1" parent="MHB4uFjQyGoL311HIUMG-1">
+          <mxGeometry x="56.5" y="64.5" width="310" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MHB4uFjQyGoL311HIUMG-3" value="Hapag Lloyd" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;" vertex="1" parent="MHB4uFjQyGoL311HIUMG-1">
+          <mxGeometry x="56.5" y="114.5" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MHB4uFjQyGoL311HIUMG-4" value="" style="line;strokeWidth=2;html=1;fontSize=14;" vertex="1" parent="MHB4uFjQyGoL311HIUMG-1">
+          <mxGeometry x="52.5" y="139.5" width="1060" height="10" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Copy of Copy of Page-2" id="RRuM76HN4lOklFY6B24q">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0GEYhRzmS1lyHfh7Dv0e-0" />
+        <mxCell id="0GEYhRzmS1lyHfh7Dv0e-1" parent="0GEYhRzmS1lyHfh7Dv0e-0" />
+        <mxCell id="0GEYhRzmS1lyHfh7Dv0e-2" value="Architecting on AWS" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=30;fontStyle=1" vertex="1" parent="0GEYhRzmS1lyHfh7Dv0e-1">
+          <mxGeometry x="56.5" y="64.5" width="310" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0GEYhRzmS1lyHfh7Dv0e-3" value="Hapag Lloyd" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;" vertex="1" parent="0GEYhRzmS1lyHfh7Dv0e-1">
+          <mxGeometry x="56.5" y="114.5" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0GEYhRzmS1lyHfh7Dv0e-4" value="" style="line;strokeWidth=2;html=1;fontSize=14;" vertex="1" parent="0GEYhRzmS1lyHfh7Dv0e-1">
+          <mxGeometry x="52.5" y="139.5" width="1060" height="10" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Copy of Copy of Copy of Page-2" id="qOymCMPHzJLOHxskp7UX">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="r6w_fKFqbNIn-1eUtoUb-0" />
+        <mxCell id="r6w_fKFqbNIn-1eUtoUb-1" parent="r6w_fKFqbNIn-1eUtoUb-0" />
+        <mxCell id="r6w_fKFqbNIn-1eUtoUb-2" value="Architecting on AWS" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=30;fontStyle=1" vertex="1" parent="r6w_fKFqbNIn-1eUtoUb-1">
+          <mxGeometry x="56.5" y="64.5" width="310" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="r6w_fKFqbNIn-1eUtoUb-3" value="Hapag Lloyd" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;" vertex="1" parent="r6w_fKFqbNIn-1eUtoUb-1">
+          <mxGeometry x="56.5" y="114.5" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="r6w_fKFqbNIn-1eUtoUb-4" value="" style="line;strokeWidth=2;html=1;fontSize=14;" vertex="1" parent="r6w_fKFqbNIn-1eUtoUb-1">
           <mxGeometry x="52.5" y="139.5" width="1060" height="10" as="geometry" />
         </mxCell>
       </root>
