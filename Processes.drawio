@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-23T14:27:57.739Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="YC08-MzK0irojoOMbSke" version="14.0.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-12-23T14:40:25.153Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="pHsEWc9RLC_2NR75bA8p" version="14.0.4" type="github" pages="3">
   <diagram id="ho1QO2U8nEk5dNVwzTMI" name="Sales Funnel">
     <mxGraphModel dx="1209" dy="675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -201,6 +201,9 @@
         <mxCell id="SBBvhC0sCpfQM56uXKch-8" value="Sales close out&amp;nbsp; / expand" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="ET1MKJ4apy0ET9dkxIQE-1">
           <mxGeometry x="1440" y="200" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Aykso3s4_XLSSmcP3YIh-0" value="PS breakdown&lt;br&gt;&lt;br&gt;1.App Migrations&lt;br&gt;2. Well Arch Reviews&lt;br&gt;3.&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ET1MKJ4apy0ET9dkxIQE-1">
+          <mxGeometry x="100" y="480" width="130" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -209,6 +212,39 @@
       <root>
         <mxCell id="pt1xglrDcdgQ7_IVC4mi-0" />
         <mxCell id="pt1xglrDcdgQ7_IVC4mi-1" parent="pt1xglrDcdgQ7_IVC4mi-0" />
+        <mxCell id="2shBsdNcsNnZIBX6vlr2-0" value="Monitoring alarm" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="pt1xglrDcdgQ7_IVC4mi-1">
+          <mxGeometry x="80" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2shBsdNcsNnZIBX6vlr2-1" value="Customer call" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="pt1xglrDcdgQ7_IVC4mi-1">
+          <mxGeometry x="80" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2shBsdNcsNnZIBX6vlr2-3" value="Customer email" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="pt1xglrDcdgQ7_IVC4mi-1">
+          <mxGeometry x="80" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2shBsdNcsNnZIBX6vlr2-4" value="Contractual scheduled job" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="pt1xglrDcdgQ7_IVC4mi-1">
+          <mxGeometry x="80" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2shBsdNcsNnZIBX6vlr2-5" value="Time tracking" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="pt1xglrDcdgQ7_IVC4mi-1">
+          <mxGeometry x="80" y="510" width="1030" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2shBsdNcsNnZIBX6vlr2-6" value="Gavin" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="pt1xglrDcdgQ7_IVC4mi-1">
+          <mxGeometry x="330" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2shBsdNcsNnZIBX6vlr2-7" value="CSA1" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="pt1xglrDcdgQ7_IVC4mi-1">
+          <mxGeometry x="450" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2shBsdNcsNnZIBX6vlr2-8" value="CSA2" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="pt1xglrDcdgQ7_IVC4mi-1">
+          <mxGeometry x="450" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2shBsdNcsNnZIBX6vlr2-9" value="CSA3" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="pt1xglrDcdgQ7_IVC4mi-1">
+          <mxGeometry x="450" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2shBsdNcsNnZIBX6vlr2-11" value="Level 1 resolution&amp;nbsp;&lt;br&gt;Level 2 resolution&lt;br&gt;Level 3 resolution&lt;br&gt;Tickets per month - managment visibility&lt;br&gt;Tickets per month - customer visibility&lt;br&gt;Knowledge base&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="pt1xglrDcdgQ7_IVC4mi-1">
+          <mxGeometry x="460" y="50" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2shBsdNcsNnZIBX6vlr2-12" value="What are the typical work items of managed services?&lt;br&gt;&lt;br&gt;Break/fix of apps?&lt;br&gt;Fault finding&lt;br&gt;Log inspection&lt;br&gt;Security assessments" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="pt1xglrDcdgQ7_IVC4mi-1">
+          <mxGeometry x="850" y="100" width="200" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
