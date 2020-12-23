@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-23T13:31:15.262Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="WoWq1D11gcpIqHrBDiKb" version="14.0.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-12-23T14:15:28.104Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="Yw0uiJhYEXt4mkZ43pko" version="14.0.4" type="github" pages="2">
   <diagram id="ho1QO2U8nEk5dNVwzTMI" name="Sales Funnel">
     <mxGraphModel dx="1209" dy="675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -13,8 +13,8 @@
         <mxCell id="KgLcx0yHhYFfOFIcbzr5-2" value="Stephen generated lead" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="80" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KgLcx0yHhYFfOFIcbzr5-4" value="New logo&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="10" y="240" width="70" height="20" as="geometry" />
+        <mxCell id="KgLcx0yHhYFfOFIcbzr5-4" value="New logos" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="-132.5" y="267.5" width="355" height="20" as="geometry" />
         </mxCell>
         <mxCell id="KgLcx0yHhYFfOFIcbzr5-5" value="Word of mouth lead" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="80" y="260" width="120" height="60" as="geometry" />
