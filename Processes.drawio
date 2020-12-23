@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-23T14:56:38.740Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="6CYefBm87RP4-2qNEtN9" version="14.0.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-12-23T14:57:15.411Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="E89HJpxWtjT6vKr5Mc1m" version="14.0.4" type="github" pages="3">
   <diagram id="ho1QO2U8nEk5dNVwzTMI" name="Sales Funnel">
     <mxGraphModel dx="1209" dy="675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -246,10 +246,10 @@
           <mxGeometry x="450" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2shBsdNcsNnZIBX6vlr2-11" value="Level 1 resolution&amp;nbsp;&lt;br&gt;Level 2 resolution&lt;br&gt;Level 3 resolution&lt;br&gt;Tickets per month - managment visibility&lt;br&gt;Tickets per month - customer visibility&lt;br&gt;Knowledge base&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="pt1xglrDcdgQ7_IVC4mi-1">
-          <mxGeometry x="460" y="50" width="280" height="20" as="geometry" />
+          <mxGeometry x="460" y="50" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2shBsdNcsNnZIBX6vlr2-12" value="What are the typical work items of managed services?&lt;br&gt;&lt;br&gt;Break/fix of apps?&lt;br&gt;Fault finding&lt;br&gt;Log inspection&lt;br&gt;Security assessments" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="pt1xglrDcdgQ7_IVC4mi-1">
-          <mxGeometry x="850" y="100" width="200" height="20" as="geometry" />
+        <mxCell id="2shBsdNcsNnZIBX6vlr2-12" value="What are the typical work items of managed services?&lt;br&gt;&lt;br&gt;Break/fix of apps?&lt;br&gt;Fault finding&lt;br&gt;Log inspection&lt;br&gt;Security assessments" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="pt1xglrDcdgQ7_IVC4mi-1">
+          <mxGeometry x="850" y="55" width="200" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
