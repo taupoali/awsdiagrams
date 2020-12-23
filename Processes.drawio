@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-23T13:16:54.705Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="n3kylJvSolpchQTCx3_L" version="14.0.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-12-23T13:31:15.262Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="WoWq1D11gcpIqHrBDiKb" version="14.0.4" type="github" pages="2">
   <diagram id="ho1QO2U8nEk5dNVwzTMI" name="Sales Funnel">
     <mxGraphModel dx="1209" dy="675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -125,7 +125,7 @@
           <mxGeometry x="80" y="616.25" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8zEjN8LGxmkn5kDTla0N-20" value="Flavours of managed customer, e.g.&lt;br&gt;1) Tech support hours, no monitoring&lt;br&gt;2) Tech support, monitoring&lt;br&gt;3) Tech support, project hours,&amp;nbsp;&lt;br&gt;4) Resell only&lt;br&gt;5) Resell + 1,2,3" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="763.75" y="610" width="246.25" height="20" as="geometry" />
+          <mxGeometry x="823.75" y="610" width="246.25" height="20" as="geometry" />
         </mxCell>
         <mxCell id="8zEjN8LGxmkn5kDTla0N-21" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;exitX=0.566;exitY=0.017;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="8zEjN8LGxmkn5kDTla0N-2" target="8zEjN8LGxmkn5kDTla0N-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -139,8 +139,8 @@
             <mxPoint x="720" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8zEjN8LGxmkn5kDTla0N-23" value="SA/CSA content" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="630" y="480" width="120" height="60" as="geometry" />
+        <mxCell id="8zEjN8LGxmkn5kDTla0N-23" value="SA/CSA generate PS content + AWS resource estimate + Cirrus resource estimate" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="630" y="480" width="120" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
