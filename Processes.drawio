@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-23T14:56:00.351Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="LswS2iIZ3WGfGF6bbEMi" version="14.0.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-12-23T14:56:38.740Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="6CYefBm87RP4-2qNEtN9" version="14.0.4" type="github" pages="3">
   <diagram id="ho1QO2U8nEk5dNVwzTMI" name="Sales Funnel">
     <mxGraphModel dx="1209" dy="675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -206,6 +206,9 @@
         </mxCell>
         <mxCell id="Aykso3s4_XLSSmcP3YIh-1" value="If these processes look ok - would any of previous issues been caught?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ET1MKJ4apy0ET9dkxIQE-1">
           <mxGeometry x="550" y="490" width="410" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Aykso3s4_XLSSmcP3YIh-2" value="Documentation - opp to bill 2 days+ light/full doc" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ET1MKJ4apy0ET9dkxIQE-1">
+          <mxGeometry x="320" y="580" width="160" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
