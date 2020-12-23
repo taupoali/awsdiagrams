@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-23T14:15:28.104Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="Yw0uiJhYEXt4mkZ43pko" version="14.0.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-12-23T14:27:57.739Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="YC08-MzK0irojoOMbSke" version="14.0.4" type="github" pages="3">
   <diagram id="ho1QO2U8nEk5dNVwzTMI" name="Sales Funnel">
     <mxGraphModel dx="1209" dy="675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -13,8 +13,8 @@
         <mxCell id="KgLcx0yHhYFfOFIcbzr5-2" value="Stephen generated lead" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="80" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KgLcx0yHhYFfOFIcbzr5-4" value="New logos" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="-132.5" y="267.5" width="355" height="20" as="geometry" />
+        <mxCell id="KgLcx0yHhYFfOFIcbzr5-4" value="Existing Customers" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="-76.25" y="636.25" width="262.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="KgLcx0yHhYFfOFIcbzr5-5" value="Word of mouth lead" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="80" y="260" width="120" height="60" as="geometry" />
@@ -25,14 +25,11 @@
         <mxCell id="KgLcx0yHhYFfOFIcbzr5-7" value="Digital Marketing lead" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="80" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KgLcx0yHhYFfOFIcbzr5-9" value="Stephen" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="KgLcx0yHhYFfOFIcbzr5-9" value="Stephen" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="290" y="90" width="120" height="400" as="geometry" />
         </mxCell>
         <mxCell id="KgLcx0yHhYFfOFIcbzr5-10" value="Existing Managed Services customer" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="80" y="710" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="KgLcx0yHhYFfOFIcbzr5-11" value="Existing Customer Opp" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="60" y="500" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="KgLcx0yHhYFfOFIcbzr5-12" value="Existing PS customer, additional PS" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="80" y="530" width="120" height="60" as="geometry" />
@@ -82,7 +79,7 @@
             <mxPoint x="290" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8zEjN8LGxmkn5kDTla0N-9" value="Gavin?" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="8zEjN8LGxmkn5kDTla0N-9" value="Gavin liaise Stephen?&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="450" y="710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8zEjN8LGxmkn5kDTla0N-10" value="" style="shape=flexArrow;endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.368;entryY=0.998;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8zEjN8LGxmkn5kDTla0N-11" target="KgLcx0yHhYFfOFIcbzr5-9">
@@ -122,7 +119,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8zEjN8LGxmkn5kDTla0N-19" value="Existing PS customer convert to managed" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="80" y="616.25" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8zEjN8LGxmkn5kDTla0N-20" value="Flavours of managed customer, e.g.&lt;br&gt;1) Tech support hours, no monitoring&lt;br&gt;2) Tech support, monitoring&lt;br&gt;3) Tech support, project hours,&amp;nbsp;&lt;br&gt;4) Resell only&lt;br&gt;5) Resell + 1,2,3" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="823.75" y="610" width="246.25" height="20" as="geometry" />
@@ -142,14 +139,76 @@
         <mxCell id="8zEjN8LGxmkn5kDTla0N-23" value="SA/CSA generate PS content + AWS resource estimate + Cirrus resource estimate" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="630" y="480" width="120" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="8zEjN8LGxmkn5kDTla0N-24" value="New logos" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="-122.5" y="277.5" width="355" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8zEjN8LGxmkn5kDTla0N-25" value="John liaise Gavin?" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="270" y="616.25" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8zEjN8LGxmkn5kDTla0N-26" value="" style="shape=flexArrow;endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.001;entryY=0.39;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8zEjN8LGxmkn5kDTla0N-19" target="8zEjN8LGxmkn5kDTla0N-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="636.25" as="sourcePoint" />
+            <mxPoint x="270" y="636.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="932f-S1QaRRjzjCXm46r" name="Page-2">
+  <diagram id="932f-S1QaRRjzjCXm46r" name="PS">
     <mxGraphModel dx="1209" dy="675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="ET1MKJ4apy0ET9dkxIQE-0" />
         <mxCell id="ET1MKJ4apy0ET9dkxIQE-1" parent="ET1MKJ4apy0ET9dkxIQE-0" />
+        <mxCell id="csxGHYVA_0lbzSThSeI9-0" value="Scheduling" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="ET1MKJ4apy0ET9dkxIQE-1">
+          <mxGeometry x="200" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ssYrKZRzWKLqGrJXFF3S-0" value="Delivery/payment Milestones&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="ET1MKJ4apy0ET9dkxIQE-1">
+          <mxGeometry x="60" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ssYrKZRzWKLqGrJXFF3S-1" value="Discovery&lt;br&gt;Customer reported truthfully on prereq?" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="ET1MKJ4apy0ET9dkxIQE-1">
+          <mxGeometry x="340" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ssYrKZRzWKLqGrJXFF3S-2" value="Breakpoint - ok to go?" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="ET1MKJ4apy0ET9dkxIQE-1">
+          <mxGeometry x="480" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ssYrKZRzWKLqGrJXFF3S-3" value="Design" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="ET1MKJ4apy0ET9dkxIQE-1">
+          <mxGeometry x="620" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SBBvhC0sCpfQM56uXKch-0" value="John W own design doc?" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="ET1MKJ4apy0ET9dkxIQE-1">
+          <mxGeometry x="620" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SBBvhC0sCpfQM56uXKch-1" value="John W team author" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="ET1MKJ4apy0ET9dkxIQE-1">
+          <mxGeometry x="620" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SBBvhC0sCpfQM56uXKch-2" value="Design sign off" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="ET1MKJ4apy0ET9dkxIQE-1">
+          <mxGeometry x="890" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SBBvhC0sCpfQM56uXKch-3" value="TDA" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="ET1MKJ4apy0ET9dkxIQE-1">
+          <mxGeometry x="750" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SBBvhC0sCpfQM56uXKch-4" value="Implementation" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="ET1MKJ4apy0ET9dkxIQE-1">
+          <mxGeometry x="1020" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SBBvhC0sCpfQM56uXKch-5" value="Documentation" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="ET1MKJ4apy0ET9dkxIQE-1">
+          <mxGeometry x="1160" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SBBvhC0sCpfQM56uXKch-6" value="Project sign off" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="ET1MKJ4apy0ET9dkxIQE-1">
+          <mxGeometry x="1300" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SBBvhC0sCpfQM56uXKch-7" value="John W own solution documentation sign off?" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="ET1MKJ4apy0ET9dkxIQE-1">
+          <mxGeometry x="1160" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SBBvhC0sCpfQM56uXKch-8" value="Sales close out&amp;nbsp; / expand" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="ET1MKJ4apy0ET9dkxIQE-1">
+          <mxGeometry x="1440" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="odW1iXzeqLhZ5GxUIzrW" name="MS">
+    <mxGraphModel dx="1209" dy="675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="pt1xglrDcdgQ7_IVC4mi-0" />
+        <mxCell id="pt1xglrDcdgQ7_IVC4mi-1" parent="pt1xglrDcdgQ7_IVC4mi-0" />
       </root>
     </mxGraphModel>
   </diagram>
